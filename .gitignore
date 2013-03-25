@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 lcs-string/.settings/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 02b3a8e23fb4dc098b6cb979da1bd3cd841f66a7
